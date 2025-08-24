@@ -41,8 +41,8 @@ export const songs = [
   },
   {
     name: "nan - \"Flamingo\" by Kenshi Yonezu",
-    videoId: "https://youtu.be/Uh6dkL1M9DM?si=WqpuEt16c9znUy1p",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "Uh6dkL1M9DM",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -71,8 +71,8 @@ export const songs = [
   },
   {
     name: "nan - \"Haiirotoao\" by Kenshi Yonezu + Masaki Suda",
-    videoId: "https://youtu.be/gJX2iy6nhHc?si=BxBEbUasipZKxb9E",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "gJX2iy6nhHc",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -111,8 +111,8 @@ export const songs = [
   },
   {
     name: "nan - \"Lemon\" by Kenshi Yonezu",
-    videoId: "https://youtu.be/SX_ViT4Ra7k?si=T2cko4uMiFOIR2VB",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "SX_ViT4Ra7k",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -301,8 +301,8 @@ export const songs = [
   },
   {
     name: "nan - \"TEENAGE RIOT\"  by Kenshi Yonezu",
-    videoId: "https://youtu.be/lwolyOIcCQg?si=onxMBULTZjXkh5JU",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "lwolyOIcCQg",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
