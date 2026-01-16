@@ -261,7 +261,7 @@ export const songs = [
   },
   {
     name: "Easygoing Territory Defense by the Optimistic Lord - \"Okirakuzation\" by Rei Nakashima",
-    videoId: "Aooc6j4R8FA",
+    videoId: "D_VIrnh8Gx4",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
