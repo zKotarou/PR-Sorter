@@ -251,7 +251,7 @@ export const songs = [
   },
   {
     name: "The Invisible Man and His Soon-to-Be Wife - \"Ding-dong\" by Mao Abe",
-    videoId: "C6sEP_qe3p0",
+    videoId: "hcpOaVa12DA",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
