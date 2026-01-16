@@ -31,8 +31,8 @@ export const songs = [
   },
   {
     name: "Sentenced to Be a Hero - \"Kill The Noise\" by SPYAIR",
-    videoId: "https://youtu.be/h4I4frynoOo?si=l1WN9ItanNQ_QltN",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "OSNBVXs2CIE",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
