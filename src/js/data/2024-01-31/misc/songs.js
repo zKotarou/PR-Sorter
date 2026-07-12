@@ -1,8 +1,8 @@
 export const songs = [
   {
-    name: "Boruto: Naruto Next Generations - \"BAKU\" by Ikimono-gakari",
-    videoId: "https://naedist.animemusicquiz.com/ylx6jx.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Jaadugar: A Witch in Mongolia - nan",
+    videoId: "_GlLp6hyM2E",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -10,9 +10,9 @@ export const songs = [
     }
   },
   {
-    name: "Boruto: Naruto Next Generations - \"Baton Road\" by KANA-BOON",
-    videoId: "https://naedist.animemusicquiz.com/zbbptu.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "The Ghost in the Shell - nan",
+    videoId: "PDZb57n_b90",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -20,9 +20,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Blood Circulator\" by ASIAN KUNG-FU GENERATION",
-    videoId: "https://naedist.animemusicquiz.com/b83tx3.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "The Cat and the Dragon - nan",
+    videoId: "ZH8xYK5vac0",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -30,9 +30,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Blue Bird\" by Ikimono-gakari",
-    videoId: "https://naedist.animemusicquiz.com/enrlw0.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Smoking Behind the Supermarket with You  - nan",
+    videoId: "0HGEaVFajSU",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -40,9 +40,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"CLOSER\" by Joe Inoue",
-    videoId: "https://naedist.animemusicquiz.com/dwfpu9.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "That Time I Got Reincarnated as a Slime Season 4 - nan",
+    videoId: "zvIS6EIkXx8",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -50,9 +50,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"distance\" by LONG SHOT PARTY",
-    videoId: "https://naedist.animemusicquiz.com/ot1ct2.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Daemons of the Shadow Realm - nan",
+    videoId: "nQGfyebJ_oc",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -60,9 +60,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Diver\" by NICO Touches the Walls",
-    videoId: "https://naedist.animemusicquiz.com/eyh0st.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Chainsmoker Cat - nan",
+    videoId: "46Z-WQv_vFc",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -70,9 +70,9 @@ export const songs = [
     }
   },
   {
-    name: "Boruto: Naruto Next Generations - \"Gamushara\" by CHiCO with HoneyWorks",
-    videoId: "https://naedist.animemusicquiz.com/nk6rdp.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "The World is Dancing - nan",
+    videoId: "6f78rxIxzV0",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -80,9 +80,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Spin-Off: Rock Lee & His Ninja Pals - \"Give Lee Give Lee Rock Lee\" by Animetal USA\u00d7Hironobu Kageyama",
-    videoId: "https://naedist.animemusicquiz.com/33f4uu.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "The Exiled Heavy Knight Knows How to Game the System - nan",
+    videoId: "_j3Bm3tr7dA",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -90,9 +90,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto - \"GO!!!\" by FLOW",
-    videoId: "https://naedist.animemusicquiz.com/psrddv.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Bang Dream Yume\u221eMita - nan",
+    videoId: "Ech7Tj8ga0Y",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -100,9 +100,9 @@ export const songs = [
     }
   },
   {
-    name: "Boruto: Naruto Next Generations - \"GOLD\" by FLOW",
-    videoId: "https://naedist.animemusicquiz.com/r3kwp5.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Grand Blue Season  3 - nan",
+    videoId: "AmXiXQYXIJI",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -110,9 +110,9 @@ export const songs = [
     }
   },
   {
-    name: "Boruto: Naruto Next Generations - \"Golden Time\" by Fujifabric",
-    videoId: "https://naedist.animemusicquiz.com/yjtvj8.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Liar Game - nan",
+    videoId: "slKNbfZgImw",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -120,9 +120,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto - \"Good Bye, Good Luck\" by TOTALFAT",
-    videoId: "https://naedist.animemusicquiz.com/nykao4.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Black Torch - nan",
+    videoId: "2FjRzlo5zHI",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -130,9 +130,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Guren\" by DOES",
-    videoId: "https://naedist.animemusicquiz.com/30e80m.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Smoking Behind the Supermarket with You - nan",
+    videoId: "OUmtsSroxns",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -140,9 +140,9 @@ export const songs = [
     }
   },
   {
-    name: "Boruto: Naruto Next Generations - \"Hajimatte Iku Takamatte Iku\" by Sambomaster",
-    videoId: "https://naedist.animemusicquiz.com/5nearv.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Kaiju Girl Caramelise - nan",
+    videoId: "hFldDZZcrQo",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -150,9 +150,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto - \"Haruka Kanata\" by ASIAN KUNG-FU GENERATION",
-    videoId: "https://naedist.animemusicquiz.com/6uutr8.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Young Ladies Don't Play Fighting Games - nan",
+    videoId: "0T9ekzDoW1k",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -160,9 +160,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Hero's Come Back!!\" by nobodyknows+",
-    videoId: "https://naedist.animemusicquiz.com/6owko9.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Tomb Raider King - nan",
+    videoId: "PVN8Pj_Ykyo",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -170,9 +170,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Hotaru no Hikari\" by Ikimono-gakari",
-    videoId: "https://naedist.animemusicquiz.com/urd4oa.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "You and I Are Polar Opposites Season 2 - nan",
+    videoId: "kUe7LOCbjzQ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -180,9 +180,9 @@ export const songs = [
     }
   },
   {
-    name: "Boruto: Naruto Next Generations - \"It's all in the game\" by Qyoto",
-    videoId: "https://naedist.animemusicquiz.com/5t20eh.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Mushoku Tensei Season 3 - nan",
+    videoId: "3F8-KF40VhI",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -190,9 +190,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Kara no Kokoro\" by Anly",
-    videoId: "https://naedist.animemusicquiz.com/h6yvlm.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Victoria of Many Faces - nan",
+    videoId: "s9peIEgH2zU",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -200,9 +200,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Kaze\" by Yamazaru",
-    videoId: "https://naedist.animemusicquiz.com/0pxs3d.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Grow Up Show: Sunflower Circus - nan",
+    videoId: "QxJWmZ74GfM",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -210,9 +210,9 @@ export const songs = [
     }
   },
   {
-    name: "Boruto: Naruto Next Generations - \"Kirarirari\" by KANA-BOON",
-    videoId: "https://naedist.animemusicquiz.com/yqjhgp.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Magilumiere Magical Girls Inc. Season 2 - nan",
+    videoId: "bp1F_BYa27U",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -220,9 +220,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"LINE\" by Sukima Switch",
-    videoId: "https://naedist.animemusicquiz.com/u1wg1h.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Rich Girl Caretaker - nan",
+    videoId: "nWwsthEoUnQ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -230,9 +230,9 @@ export const songs = [
     }
   },
   {
-    name: "Boruto: Naruto Next Generations - \"Lonely Go!\" by Brian the Sun",
-    videoId: "https://naedist.animemusicquiz.com/04rmlm.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Sparks of Tomorrow - nan",
+    videoId: "PX-b7KO3HOw",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -240,9 +240,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Spin-Off: Rock Lee & His Ninja Pals - \"Love Song\" by OKAMOTO'S",
-    videoId: "https://naedist.animemusicquiz.com/ukwq9w.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Red River - nan",
+    videoId: "cpytH8hQ5BE",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -250,9 +250,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Lovers\" by 7!!",
-    videoId: "https://naedist.animemusicquiz.com/3uva5m.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "From Old Country Bumpkin to Master Swordsman II  - nan",
+    videoId: "3a1w0lo3OxM",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -260,9 +260,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Moshimo\" by Daisuke",
-    videoId: "https://naedist.animemusicquiz.com/nfdua3.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Kamui: He's Behind You - nan",
+    videoId: "3h9yV1NUxmo",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -270,9 +270,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto - \"Namikaze Satellite\" by Snowkel",
-    videoId: "https://naedist.animemusicquiz.com/05e8ao.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Please Excuse My Younger Brothers - nan",
+    videoId: "X_knFby9AJc",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -280,9 +280,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"newsong\" by tacica",
-    videoId: "https://naedist.animemusicquiz.com/w8redc.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration - nan",
+    videoId: "GU5DQI5snck",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -290,9 +290,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Niwaka Ame ni mo Makezu\" by NICO Touches the Walls",
-    videoId: "https://naedist.animemusicquiz.com/o55mk8.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "The Classroom of a Black Cat and a Witch - nan",
+    videoId: "coITmwJeMIs",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -300,9 +300,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto - \"No Boy No Cry\" by STANCE PUNKS",
-    videoId: "https://naedist.animemusicquiz.com/9a1qf6.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Yoroi-Shinden Samurai Troopers Part 2 - nan",
+    videoId: "XOyydxN5QFs",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -310,9 +310,9 @@ export const songs = [
     }
   },
   {
-    name: "Boruto: Naruto Next Generations - \"OVER\" by Little Glee Monster",
-    videoId: "https://naedist.animemusicquiz.com/yder07.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Thunder 3 - nan",
+    videoId: "PHgV3BzCaZE",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -320,9 +320,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto - \"Rise\" by Jeremy Sweet & Ian Nickus",
-    videoId: "https://naedist.animemusicquiz.com/v65efq.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "The Forsaken Saintess and Her Foodie Roadtrip in Another World - nan",
+    videoId: "sdOQK3KW2vI",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -330,9 +330,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto - \"Sayonara Sekai\" by Kishidan",
-    videoId: "https://naedist.animemusicquiz.com/c7teej.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Skeleton Knight in Another World Season 2 - nan",
+    videoId: "9Qr1nkwhqvM",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -340,9 +340,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto - \"Seishun Kyousoukyoku\" by Sambomaster",
-    videoId: "https://naedist.animemusicquiz.com/zg1spa.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)! - nan",
+    videoId: "N9qyQ1s06yc",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -350,9 +350,9 @@ export const songs = [
     }
   },
   {
-    name: "Boruto: Naruto Next Generations - \"Shukuen\" by ASIAN KUNG-FU GENERATION",
-    videoId: "https://naedist.animemusicquiz.com/y3enrt.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "The Villager of Level 999 - nan",
+    videoId: "4iRiuYov9pY",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -360,9 +360,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Sign\" by FLOW",
-    videoId: "https://naedist.animemusicquiz.com/1zz8kw.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Oh Boy, Was I Wrong About Her - nan",
+    videoId: "u0bs0o-EXg4",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -370,9 +370,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Silhouette\" by KANA-BOON",
-    videoId: "https://naedist.animemusicquiz.com/obrvnk.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "A Livid Lady's Guide to Getting Even - nan",
+    videoId: "nxdEDwvplY0",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -380,9 +380,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto - \"Tada Yowai dake ja Nakute Bokura wa...\" by Mass Alert",
-    videoId: "https://naedist.animemusicquiz.com/0mg65q.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Let's Go Kaikigumi - nan",
+    videoId: "GEZWCWyX-is",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -390,9 +390,9 @@ export const songs = [
     }
   },
   {
-    name: "Boruto: Naruto Next Generations - \"Teenage Dream\" by miwa",
-    videoId: "https://naedist.animemusicquiz.com/l1gi5p.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Hell Mode Season 2 - nan",
+    videoId: "ByIgOD0qOKY",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -400,9 +400,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Totsugeki Rock\" by The Cro-Magnons",
-    videoId: "https://naedist.animemusicquiz.com/e01oyu.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "The Insipid Prince's Furtive Grab for The Throne - nan",
+    videoId: "lWYRZq7TuHQ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -410,9 +410,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Toumei Datta Sekai\" by Motohiro Hata",
-    videoId: "https://naedist.animemusicquiz.com/u8igh3.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Flaming Dodgeball Girl Danko - nan",
+    videoId: "S5BYg1_0u7M",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -420,9 +420,9 @@ export const songs = [
     }
   },
   {
-    name: "Naruto Shippuuden - \"Tsuki no Ookisa\" by Nogizaka46",
-    videoId: "https://naedist.animemusicquiz.com/iq60um.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "From Overshadowed to Overpowered - nan",
+    videoId: "tbJPoZC5MWc",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
@@ -430,9 +430,159 @@ export const songs = [
     }
   },
   {
-    name: "Naruto - \"Yura Yura\" by Hearts Grow",
-    videoId: "https://naedist.animemusicquiz.com/ohonxl.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
+    name: "Azur Lane: Slow Ahead 2 - nan",
+    videoId: "-6tYHv0ceQQ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Mao - nan",
+    videoId: "8ArJWpMmZkA",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Trapped in a Dating Sim Season 2 - nan",
+    videoId: "i_dXw-oJZBA",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "The Ogre's Bride - nan",
+    videoId: "MnFWBiWIfPg",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Hana-Kimi Season 2 - nan",
+    videoId: "SccI7wPhm5s",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "The Oblivious Saint Can't Contain Her Power - nan",
+    videoId: "TOj2RisiiwY",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Recommendations from Iwamoto-Senpa - nan",
+    videoId: "ms6fXO3Ngk4",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "I Became a Legend After My 10 Year-Long Last Stand - nan",
+    videoId: "lMq8obidFDI",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Dara-san of Reiwa - nan",
+    videoId: "ARajp8DyC48",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "The World's Strongest Rearguard - nan",
+    videoId: "RSfkFGTuPyo",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Draw This, Then Die - nan",
+    videoId: "ZcX905vF0j0",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Hanaori-san Still Wants to Fight in the Next Life - nan",
+    videoId: "dv1TGoV_aS8",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Ascendance of a Bookworm: Adopted Daughter of an Archduke - nan",
+    videoId: "3BlCT0_r6RQ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Detective Conan - nan",
+    videoId: "UV53uVaECT8",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Magical Girl Lyrical Nanoha Exceeds Gun Blaze Vengeance - nan",
+    videoId: "_gBcPnxRXDY",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "The 100 Girlfriends Who Really, REALLY Love You Season 3 - nan",
+    videoId: "_fLDsREfyFI",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "OP"
