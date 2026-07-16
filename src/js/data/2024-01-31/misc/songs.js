@@ -311,7 +311,7 @@ export const songs = [
   },
   {
     name: "Thunder 3 - nan",
-    videoId: "PHgV3BzCaZE",
+    videoId: "gnsGSDo0fTU",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -582,6 +582,76 @@ export const songs = [
   {
     name: "The 100 Girlfriends Who Really, REALLY Love You Season 3 - nan",
     videoId: "_fLDsREfyFI",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "I Want to Love You Till Your Dying Day - nan",
+    videoId: "01Vgu7BIxmI",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Mebius Dust - nan",
+    videoId: "DZIN7Fx_K48",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Goodbye, Lara - nan",
+    videoId: "GOfC_4qCa9c",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Iron Wok Jan! - nan",
+    videoId: "yj4cgfv2xU8",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Though I Am an Inept Villainess - nan",
+    videoId: "LshSTzPWdLk",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Saga of Tanya the Evil Season 2 - nan",
+    videoId: "4tXC6bm3aGQ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Clevatess Season 2 - nan",
+    videoId: "Tbyi0Tx1QLA",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
