@@ -658,5 +658,15 @@ export const songs = [
         "OP"
       ]
     }
+  },
+  {
+    name: "The Elusive Samurai Season 2 - nan",
+    videoId: "Dgj69Vqr120",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
   }
 ];
